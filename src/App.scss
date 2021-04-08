@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  background-color: transparent;
+}
+
+.app {
+  display: flex;
+}
+
+.container {
+  background-color: red;
+  width: calc(100vw - 160px);
+}
